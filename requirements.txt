@@ -1,0 +1,5 @@
+pyspark
+delta-spark
+pandas
+pytest
+pytest-cov
