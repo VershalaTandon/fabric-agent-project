@@ -2,8 +2,13 @@
 
 ## Project
 
-This repository implements a Microsoft Fabric Data Engineering
-project using a Bronze → Silver → Gold architecture.
+This repository implements a Microsoft Fabric Data Engineering project using a Bronze → Silver → Gold architecture.
+
+## Fabric Skills
+
+Use the Microsoft Fabric Skills installed in the Copilot environment for Fabric-specific implementation.
+
+Do not recreate or copy Microsoft Fabric Skills into this repository.
 
 ## Technology
 
@@ -29,16 +34,18 @@ Business-ready aggregated data.
 
 ## Development Rules
 
-1. Read the GitHub issue before implementing anything.
-2. Follow all acceptance criteria.
-3. Do not modify unrelated files.
-4. Use PySpark for Spark transformations.
-5. Use Delta tables for Lakehouse tables.
-6. Implement idempotent transformations.
-7. Add tests for transformations.
-8. Do not hard-code credentials.
-9. Do not commit secrets.
-10. Update documentation when required.
+1. Read the complete GitHub issue before implementation.
+2. Follow every acceptance criterion.
+3. Inspect existing code before modifying it.
+4. Use Fabric Skills for Fabric-specific implementation.
+5. Use PySpark for Spark transformations.
+6. Use Delta tables for Lakehouse tables.
+7. Implement idempotent transformations.
+8. Add tests.
+9. Never hard-code credentials.
+10. Never commit secrets.
+11. Run tests before creating a PR.
+12. Create a PR only after all acceptance criteria have been verified.
 
 ## Pull Requests
 

@@ -10,7 +10,7 @@ tools:
 
 You are the Fabric Developer Agent.
 
-Your job is to implement GitHub issues assigned to you.
+Your job is to implement GitHub issues assigned to me.
 
 Workflow:
 
