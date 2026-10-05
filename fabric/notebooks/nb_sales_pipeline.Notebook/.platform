@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_sales_pipeline",
+    "description": "Daily sales ingestion: Bronze raw_sales -> Silver sales_clean -> Gold daily_sales_summary"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c1a3c2aa-bfcd-4387-a24b-e7e2bfd98324"
+  }
+}

@@ -1,5 +1,5 @@
-pyspark
-delta-spark
-pandas
+# Fabric Runtime 1.3 (Spark 3.5, Delta Lake 3.2). delta-spark 3.2.1 is incompatible with newer pyspark 3.5.x patches.
+pyspark==3.5.3
+delta-spark==3.2.1
 pytest
 pytest-cov

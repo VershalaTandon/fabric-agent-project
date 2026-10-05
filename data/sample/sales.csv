@@ -1,0 +1,14 @@
+sale_id,sale_date,product,region,quantity,unit_price
+1001,2026-09-01,Laptop,North,2,65000
+1002,2026-09-01,Phone,South,3,25000
+1003,2026-09-01,Laptop,North,1,65000
+1004,2026-09-02,Tablet,East,4,30000.50
+1005,2026-09-02,Phone,South,1,25000
+1005,2026-09-02,Phone,South,1,25000
+,2026-09-02,Laptop,North,1,65000
+1006,2026-02-30,Phone,West,2,25000
+1007,not-a-date,Phone,West,2,25000
+1008,2026-09-03,Laptop,East,0,65000
+1009,2026-09-03,Laptop,East,-1,65000
+1010,2026-09-03,Tablet,West,2,0
+1011,2026-09-03,Tablet,West,2,abc
